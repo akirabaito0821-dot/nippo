@@ -1,3 +1,4 @@
+{
   "name": "月間日報",
   "short_name": "月間日報",
   "description": "月間の勤務日報・金額を管理するアプリ",
@@ -18,4 +19,3 @@
     { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
-
